@@ -5,5 +5,5 @@ trivy image berlin
 trivy image tokyo
 trivy image ottawa
 trivy image canberra
-trivy image cairo
+trivy image kair
 trivy image washington
