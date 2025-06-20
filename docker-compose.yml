@@ -14,7 +14,7 @@ services:
  canberra:
   build: ./cities/canberra
  kair:
-  build: ./cities/cairo
+  build: ./cities/kair
  washington:
   build: ./cities/washington
 
