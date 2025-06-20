@@ -1,5 +1,5 @@
 <?php
-$cities = ['kyiv','london','berlin','tokyo','ottawa','canberra','cairo','washington'];
+$cities = ['kyiv','london','berlin','tokyo','ottawa','canberra','kair','washington'];
 foreach ($cities as $city) {
     $data = @file_get_contents("http://$city:5000/");
     if ($data) {
